@@ -1,0 +1,40 @@
+img {
+	width: 120px;
+	border:1px black solid;
+}
+
+.flag {
+	float: left;
+	margin: 0 20px 35px 0;
+	width: 120px;
+}
+
+.ans {
+	float:left;
+	width: 120px;
+	height: 20px;
+	margin: 0 20px 35px 0;
+	background-color: blue;
+	border:1px black solid;
+}
+
+.answers {
+	width: 700px;
+	height: 25px;
+	float: left;
+	background-color: #FF9966;
+	border:1px black solid;	
+	padding-left: 5px;
+}
+
+.countries {
+	float: left;
+	margin-right: 10px;
+	color: black;
+}
+
+
+
+.clear{
+	clear:both;
+}
